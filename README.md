@@ -32,7 +32,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **05** | [Día 5: La Travesía por el Bosque Nevado](https://adventjs.dev/es/challenges/2025/5) | [✅ Enlace a `dia-05`](./reto_05.js) |
 | **06** | [Día 6: Los Elfos Ocupados](https://adventjs.dev/es/challenges/2025/6) | [✅ Enlace a `dia-06`](./reto_06.js) |
 | **07** | [Día 7: La Altura del Árbol de Navidad](https://adventjs.dev/es/challenges/2025/7) | [✅ Enlace a `dia-07`](./reto_07.js) |
-| **08** | [Día 8: El Juego de las Sillas](https://adventjs.dev/es/challenges/2025/8) | [⏳ Pendiente] |
+| **08** | [Día 8: El Juego de las Sillas](https://adventjs.dev/es/challenges/2025/8) | [✅ Enlace a `dia-08`](./reto_08.js) |
 | **09** | [Día 9: El Mejor Viaje en Trineo](https://adventjs.dev/es/challenges/2025/9) | [⏳ Pendiente] |
 | **10** | [Día 10: La Mochila de Papá Noel](https://adventjs.dev/es/challenges/2025/10) | [⏳ Pendiente] |
 | **11** | [Día 11: La Fábrica de Regalos](https://adventjs.dev/es/challenges/2025/11) | [⏳ Pendiente] |
