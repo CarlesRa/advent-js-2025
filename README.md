@@ -33,7 +33,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **06** | [**Regalos en el trineo**](https://adventjs.dev/es/challenges/2025/6) | [✅ Enlace a `dia-06`](./reto_06.js) |
 | **07** | [**Las cintas de regalo**](https://adventjs.dev/es/challenges/2025/7) | [✅ Enlace a `dia-07`](./reto_07.js) |
 | **08** | [**Encuentra el juguete único**](https://adventjs.dev/es/challenges/2025/8) | [✅ Enlace a `dia-08`](./reto_08.js) |
-| **09** | [**Las tuberías de agua**](https://adventjs.dev/es/challenges/2025/9) | [⏳ Pendiente] |
+| **09** | [**Las tuberías de agua**](https://adventjs.dev/es/challenges/2025/9) | [✅ Enlace a `dia-09`](./reto_09.js) |
 | **10** | [**El salto del camaleón**](https://adventjs.dev/es/challenges/2025/10) | [⏳ Pendiente] |
 | **11** | [**El problema de los envoltorios**](https://adventjs.dev/es/challenges/2025/11) | [⏳ Pendiente] |
 | **12** | [**¿Es un palíndromo?**](https://adventjs.dev/es/challenges/2025/12) | [⏳ Pendiente] |
