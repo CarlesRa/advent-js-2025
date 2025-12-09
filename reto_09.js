@@ -32,48 +32,31 @@ console.log(moveReno(board, 'RR'))
  * @returns {'fail' | 'crash' | 'success'}
  */
 function moveReno(board, moves) {
-  const moveHandler = {
-    'L': (point) => point.x--,
-    'R': (point) => point.x++,
-    'U': (point) => point.y--,
-    'D': (point) => point.y++,
-  }
+  const dir = { 'L': [-1, 0], 'R': [1, 0], 'U': [0, -1], 'D': [0, 1] };
+  const b = board.split('\n').slice(1, -1).map(l => l.trim());
   
-  const isValidPosition = (pos) =>
-    pos.x >= 0 &&
-    pos.x < boardArray[0].length &&
-    pos.y >= 0 &&
-    pos.y < boardArray.length;
-
-  const reindeer = '@';
-  const obstacle = '#';
-  const trash = '*';
-
-  const boardArray = board.split('\n').map(line => line.trim()).filter(line => line.length > 0);
-
-  let vectorY = -1;
-  let vectorX = -1;
-  for (let y = 0; y < boardArray.length; y++) {
-    const x = boardArray[y].indexOf(reindeer);
-    if (x !== -1) {
-      vectorX = x;
-      vectorY = y;
-      break;
-    }
-  }
+  if (!b.length) return 'fail';
   
-  let position = { x: vectorX, y: vectorY };
-  for (const move of moves) {
-    moveHandler[move](position);
-    if (
-      !isValidPosition(position) ||
-      boardArray[position.y].charAt(position.x) === obstacle
-    ) {
-      return 'crash';
+  const findReno = () => {
+    for (let i = 0; i < b.length; i++) {
+      const idx = b[i].indexOf('@');
+      if (idx !== -1) return { x: idx, y: i };
     }
-    if (boardArray[position.y].charAt(position.x) === trash) {
-      return 'success';
-    }
+    return null;
+  };
+  
+  const pos = findReno();
+  if (!pos) return 'fail';
+  
+  let { x, y } = pos;
+
+  for (const m of moves) {
+    x += dir[m][0];
+    y += dir[m][1];
+    
+    if (x < 0 || x >= b[0].length || y < 0 || y >= b.length || b[y][x] === '#') return 'crash';
+    if (b[y][x] === '*') return 'success';
   }
+
   return 'fail';
 }
