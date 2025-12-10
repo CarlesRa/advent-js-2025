@@ -35,7 +35,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **08** | [**Encuentra el juguete único**](https://adventjs.dev/es/challenges/2025/8) | [✅ Enlace a `dia-08`](./reto_08.js) |
 | **09** | [**Las tuberías de agua**](https://adventjs.dev/es/challenges/2025/9) | [✅ Enlace a `dia-09`](./reto_09.js) |
 | **10** | [**El salto del camaleón**](https://adventjs.dev/es/challenges/2025/10) | [⏳ Pendiente] |
-| **11** | [**El problema de los envoltorios**](https://adventjs.dev/es/challenges/2025/11) | [⏳ Pendiente] |
+| **11** | [**El problema de los envoltorios**](https://adventjs.dev/es/challenges/2025/11) | [✅ Enlace a `dia-10`](./reto_10.js) |
 | **12** | [**¿Es un palíndromo?**](https://adventjs.dev/es/challenges/2025/12) | [⏳ Pendiente] |
 | **13** | [**Buscando la secuencia de comandos**](https://adventjs.dev/es/challenges/2025/13) | [⏳ Pendiente] |
 | **14** | [**El rastro de migas de pan**](https://adventjs.dev/es/challenges/2025/14) | [⏳ Pendiente] |
