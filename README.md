@@ -25,30 +25,31 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 
 | Día | Nombre del Reto (Link Oficial) | Solución |
 | :---: | :--- | :---: |
-| **01** | [**¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2025/1) | [✅ Enlace a `dia-01`](./reto_01.js) |
-| **02** | [**Clasificando regalos**](https://adventjs.dev/es/challenges/2025/2) | [✅ Enlace a `dia-02`](./reto_02.js) |
-| **03** | [**La clave secreta**](https://adventjs.dev/es/challenges/2025/3) | [✅ Enlace a `dia-03`](./reto_03.js) |
-| **04** | [**La caja de la discordia**](https://adventjs.dev/es/challenges/2025/4) | [✅ Enlace a `dia-04`](./reto_04.js) |
-| **05** | [**Contando días**](https://adventjs.dev/es/challenges/2025/5) | [✅ Enlace a `dia-05`](./reto_05.js) |
-| **06** | [**Regalos en el trineo**](https://adventjs.dev/es/challenges/2025/6) | [✅ Enlace a `dia-06`](./reto_06.js) |
-| **07** | [**Las cintas de regalo**](https://adventjs.dev/es/challenges/2025/7) | [✅ Enlace a `dia-07`](./reto_07.js) |
-| **08** | [**Encuentra el juguete único**](https://adventjs.dev/es/challenges/2025/8) | [✅ Enlace a `dia-08`](./reto_08.js) |
-| **09** | [**Las tuberías de agua**](https://adventjs.dev/es/challenges/2025/9) | [✅ Enlace a `dia-09`](./reto_09.js) |
-| **10** | [**El salto del camaleón**](https://adventjs.dev/es/challenges/2025/10) | [⏳ Pendiente] |
-| **11** | [**El problema de los envoltorios**](https://adventjs.dev/es/challenges/2025/11) | [✅ Enlace a `dia-10`](./reto_10.js) |
-| **12** | [**¿Es un palíndromo?**](https://adventjs.dev/es/challenges/2025/12) | [⏳ Pendiente] |
-| **13** | [**Buscando la secuencia de comandos**](https://adventjs.dev/es/challenges/2025/13) | [⏳ Pendiente] |
-| **14** | [**El rastro de migas de pan**](https://adventjs.dev/es/challenges/2025/14) | [⏳ Pendiente] |
-| **15** | [**Un árbol de Navidad**](https://adventjs.dev/es/challenges/2025/15) | [⏳ Pendiente] |
-| **16** | [**Máximo de paquetes en 3D**](https://adventjs.dev/es/challenges/2025/16) | [⏳ Pendiente] |
-| **17** | [**La ruta con más regalos**](https://adventjs.dev/es/challenges/2025/17) | [⏳ Pendiente] |
-| **18** | [**El reto de la carrera de carros**](https://adventjs.dev/es/challenges/2025/18) | [⏳ Pendiente] |
-| **19** | [**El taller de Santa**](https://adventjs.dev/es/challenges/2025/19) | [⏳ Pendiente] |
-| **20** | [**Máximo de regalos**](https://adventjs.dev/es/challenges/2025/20) | [⏳ Pendiente] |
-| **21** | [**El árbol de Navidad 3D**](https://adventjs.dev/es/challenges/2025/21) | [⏳ Pendiente] |
-| **22** | [**Las luces de Navidad**](https://adventjs.dev/es/challenges/2025/22) | [⏳ Pendiente] |
-| **23** | [**El desafío de programación**](https://adventjs.dev/es/challenges/2025/23) | [⏳ Pendiente] |
-| **24** | [**El último regalo**](https://adventjs.dev/es/challenges/2025/24) | [⏳ Pendiente] |
+| **01** | [**🎁 Filtrar los regalos defectuosos**](https://adventjs.dev/es/challenges/2025/1) | [✅ Enlace a `dia-01`](./reto_01.js) |
+| **02** | [**🏭 Fabrica los juguetes**](https://adventjs.dev/es/challenges/2025/2) | [✅ Enlace a `dia-02`](./reto_02.js) |
+| **03** | [**👶 Ayuda al becario**](https://adventjs.dev/es/challenges/2025/3) | [✅ Enlace a `dia-03`](./reto_03.js) |
+| **04** | [**🔐 Descifra el PIN de Santa**](https://adventjs.dev/es/challenges/2025/4) | [✅ Enlace a `dia-04`](./reto_04.js) |
+| **05** | [**🛷 La cuenta atrás para el despegue**](https://adventjs.dev/es/challenges/2025/5) | [✅ Enlace a `dia-05`](./reto_05.js) |
+| **06** | [**🧤 Emparejando guantes**](https://adventjs.dev/es/challenges/2025/6) | [✅ Enlace a `dia-06`](./reto_06.js) |
+| **07** | [**🎄 Montando el árbol**](https://adventjs.dev/es/challenges/2025/7) | [✅ Enlace a `dia-07`](./reto_07.js) |
+| **08** | [**🎁 Encuentra el juguete único**](https://adventjs.dev/es/challenges/2025/8) | [✅ Enlace a `dia-08`](./reto_08.js) |
+| **09** | [**🦌 El reno robot aspirador**](https://adventjs.dev/es/challenges/2025/9) | [✅ Enlace a `dia-09`](./reto_09.js) |
+| **10** | [**🎄 Profundidad de Magia Navideña**](https://adventjs.dev/es/challenges/2025/10) | [✅ Enlace a `dia-10`](./reto_10.js) |
+| **11** | [**DÍA 11 — (pendiente)**](https://adventjs.dev/es/challenges/2025/11) | [⏳ Pendiente] |
+| **12** | [**DÍA 12 — (pendiente)**](https://adventjs.dev/es/challenges/2025/12) | [⏳ Pendiente] |
+| **13** | [**DÍA 13 — (pendiente)**](https://adventjs.dev/es/challenges/2025/13) | [⏳ Pendiente] |
+| **14** | [**DÍA 14 — (pendiente)**](https://adventjs.dev/es/challenges/2025/14) | [⏳ Pendiente] |
+| **15** | [**DÍA 15 — (pendiente)**](https://adventjs.dev/es/challenges/2025/15) | [⏳ Pendiente] |
+| **16** | [**DÍA 16 — (pendiente)**](https://adventjs.dev/es/challenges/2025/16) | [⏳ Pendiente] |
+| **17** | [**DÍA 17 — (pendiente)**](https://adventjs.dev/es/challenges/2025/17) | [⏳ Pendiente] |
+| **18** | [**DÍA 18 — (pendiente)**](https://adventjs.dev/es/challenges/2025/18) | [⏳ Pendiente] |
+| **19** | [**DÍA 19 — (pendiente)**](https://adventjs.dev/es/challenges/2025/19) | [⏳ Pendiente] |
+| **20** | [**DÍA 20 — (pendiente)**](https://adventjs.dev/es/challenges/2025/20) | [⏳ Pendiente] |
+| **21** | [**DÍA 21 — (pendiente)**](https://adventjs.dev/es/challenges/2025/21) | [⏳ Pendiente] |
+| **22** | [**DÍA 22 — (pendiente)**](https://adventjs.dev/es/challenges/2025/22) | [⏳ Pendiente] |
+| **23** | [**DÍA 23 — (pendiente)**](https://adventjs.dev/es/challenges/2025/23) | [⏳ Pendiente] |
+| **24** | [**DÍA 24 — (pendiente)**](https://adventjs.dev/es/challenges/2025/24) | [⏳ Pendiente] |
+
 
 
 
