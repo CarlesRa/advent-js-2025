@@ -36,7 +36,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **09** | [**🦌 El reno robot aspirador**](https://adventjs.dev/es/challenges/2025/9) | [✅ Enlace a `dia-09`](./reto_09.js) |
 | **10** | [**🎄 Profundidad de Magia Navideña**](https://adventjs.dev/es/challenges/2025/10) | [✅ Enlace a `dia-10`](./reto_10.js) |
 | **11** | [**🎁 Regalos sin vigilancia**](https://adventjs.dev/es/challenges/2025/11) | [✅ Enlace a `dia-11`](./reto_11.js) |
-| **12** | [**DÍA 12 — (pendiente)**](https://adventjs.dev/es/challenges/2025/12) | [⏳ Pendiente] |
+| **12** | [**⚔️ Batalla de elfos**](https://adventjs.dev/es/challenges/2025/12) | [✅ Enlace a `dia-12`](./reto_12.js) |
 | **13** | [**DÍA 13 — (pendiente)**](https://adventjs.dev/es/challenges/2025/13) | [⏳ Pendiente] |
 | **14** | [**DÍA 14 — (pendiente)**](https://adventjs.dev/es/challenges/2025/14) | [⏳ Pendiente] |
 | **15** | [**DÍA 15 — (pendiente)**](https://adventjs.dev/es/challenges/2025/15) | [⏳ Pendiente] |
