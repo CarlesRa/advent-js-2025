@@ -43,7 +43,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **16** | [**🎁 Empaquetando regalos para Santa**](https://adventjs.dev/es/challenges/2025/16) | [✅ Enlace a `dia-16`](./reto_16.js) |
 | **17** | [**🎄 El panel de luces navideñas**](https://adventjs.dev/es/challenges/2025/17) | [✅ Enlace a `dia-17`](./reto_17.js) |
 | **18** | [**🎄 Luces en línea con diagonales**](https://adventjs.dev/es/challenges/2025/18) | [✅ Enlace a `dia-18`](./reto_18.js) |
-| **19** | [**DÍA 19 — (pendiente)**](https://adventjs.dev/es/challenges/2025/19) | [⏳ Pendiente] |
+| **19** | [**🎄 El viaje secreto de Papá Noel**](https://adventjs.dev/es/challenges/2025/19) | [✅ Enlace a `dia-19`](./reto_19.js) |
 | **20** | [**DÍA 20 — (pendiente)**](https://adventjs.dev/es/challenges/2025/20) | [⏳ Pendiente] |
 | **21** | [**DÍA 21 — (pendiente)**](https://adventjs.dev/es/challenges/2025/21) | [⏳ Pendiente] |
 | **22** | [**DÍA 22 — (pendiente)**](https://adventjs.dev/es/challenges/2025/22) | [⏳ Pendiente] |
