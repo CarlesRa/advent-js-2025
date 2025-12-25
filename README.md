@@ -48,7 +48,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **21** | [**🤖 EL ROBOT DE LIMPIEZA**](https://adventjs.dev/es/challenges/2025/21) | [✅ Enlace a `dia-21`](./reto_21.js) |
 | **22** | [**🎄 EL LABERINTO DEL TRINEO**](https://adventjs.dev/es/challenges/2025/22) | [✅ Enlace a `dia-22`](./reto_22.js) |
 | **23** | [**🎁 RUTA DE REGALOS**](https://adventjs.dev/es/challenges/2025/23) | [✅ Enlace a `dia-23`](./reto_23.js) |
-| **24** | [**DÍA 24 — (pendiente)**](https://adventjs.dev/es/challenges/2025/24) | [⏳ Pendiente] |
+| **24** | [**🪞 VERIFICA SI LOS ÁRBOLES SON ESPEJOS MÁGICOS**](https://adventjs.dev/es/challenges/2025/24) | [✅ Enlace a `dia-24`](./reto_24.js) |
 
 
 
