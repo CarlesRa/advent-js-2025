@@ -49,6 +49,7 @@ La estructura del repositorio está diseñada para ser fácil de navegar, permit
 | **22** | [**🎄 EL LABERINTO DEL TRINEO**](https://adventjs.dev/es/challenges/2025/22) | [✅ Enlace a `dia-22`](./reto_22.js) |
 | **23** | [**🎁 RUTA DE REGALOS**](https://adventjs.dev/es/challenges/2025/23) | [✅ Enlace a `dia-23`](./reto_23.js) |
 | **24** | [**🪞 VERIFICA SI LOS ÁRBOLES SON ESPEJOS MÁGICOS**](https://adventjs.dev/es/challenges/2025/24) | [✅ Enlace a `dia-24`](./reto_24.js) |
+| **25** | [**🪄 Ejecuta el lenguaje mágico**](https://adventjs.dev/es/challenges/2025/25) | [✅ Enlace a `dia-25`](./reto_25.js) |
 
 
 
